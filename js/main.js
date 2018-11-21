@@ -22,7 +22,6 @@
 //   });
 // });
 
-
 $(window).mousemove(function(e) {
   var change;
   var xpos=e.clientX;var ypos=e.clientY;var left= change*20;
