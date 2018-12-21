@@ -11,7 +11,7 @@ li{
   list-style: none;
 }
 body{
-  font-family: 'Cabin', sans-serif;
+  font-family: 'DejaVu Sans', sans-serif;
 }
 
 p {
@@ -78,8 +78,8 @@ p {
 }
 .content_info>div>p{
   font-size: 16px;
-  padding-bottom: 20px;
-  color: #707070;
+/*  padding-bottom: 20px;
+*/  color: #707070;
 }
 .content_info>div>p:nth-of-type(2){
   padding-bottom: 40px;
@@ -229,8 +229,9 @@ p {
 	        animation: popWave 10s linear infinite;
 }
 .social{
-  padding-left: 10%;
+  /*padding-left: 10%;*/
   padding-bottom: 30px;
+  margin-top: 15px;
 }
 .social i{
   margin-right: 10px;
