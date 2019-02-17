@@ -116,6 +116,7 @@ p {
 .see {
   color: #fff;
   letter-spacing: 1px;
+  display: inline-block;
 }
 
 .content_info>div>p:nth-of-type(3){
