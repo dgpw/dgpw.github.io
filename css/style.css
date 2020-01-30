@@ -15,7 +15,6 @@ body{
 }
 
 p {
-  letter-spacing: 1px;
   line-height: 1.8;
 }
 
@@ -72,14 +71,15 @@ p {
           align-items: flex-start;
 }
 .content_info>div>h2{
-  font-size: 24px;
+  font-size: 28px;
   color: #444444;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 .content_info>div>p{
-  font-size: 16px;
+  font-size: 20px;
 /*  padding-bottom: 20px;
-*/  color: #707070;
+*/color: #707070;
+  line-height: 1.2;
 }
 .content_info>div>p:nth-of-type(2){
   padding-bottom: 40px;
@@ -106,7 +106,7 @@ p {
   border-radius: 3px;
   margin-bottom: 20px;
   text-transform: uppercase;
-  transition: .3s ease-in-out;
+  transition: .2s ease-in-out;
 }
 
 .full_btn:hover {
